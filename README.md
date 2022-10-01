@@ -1,7 +1,12 @@
-## Hi there 👋
-<a href="https://github.com/murerkinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murerkinn&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/murerkinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murerkinn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+### Hi there 👋
+
+#### I'm a Full-Stack Developer
+
+##### Bio
+
+- 🏢 I'm currently working at **Coyotiv**
+- ⚙️ Mostly using: `.ts`, `.js`, `.scss`, `.vue`
+- 🌱 Learning all about **Open Source**, **Software Architecture**
+- 💬 Ping me about **javascript**, **development**, **web applications**
+- 📫 Reach me: [murerkinn@gmail.com](mailto:murerkinn@gmail.com)
+- ⚡️ Fun fact: I'm a huge fan of Tony Stark
